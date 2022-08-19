@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 # -*- coding: utf-8
 
-#AUTHOR : Falcons 
-#OPEN SOURCEE: Recoded 
+#AUTHOR : Forkan 
+#OPEN SOURCEE: NA
 
 
 try:
